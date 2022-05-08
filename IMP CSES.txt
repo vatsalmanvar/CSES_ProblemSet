@@ -1,0 +1,25 @@
+1)Two knights
+2)Two sets
+3)Trailing zeros
+4)Coin piles
+5)Tower of hanoi
+6)Creating strings
+7)Apple division
+*****************
+8)Apartment
+9)Ferris wheel 
+10)Concert tickets
+11)Restsurant costomers
+12)Movie Festival
+13)Sum of two values
+14)Maximum subarray sum
+15)Stick lengths
+16)Missing coin sum
+17)Collecting numbers 1&2
+18)Playlist
+19)Room Allocation (***)
+20)Factory machines
+21)tasks and deadline
+22)reading books
+23)sum of three values 
+24)sum of four values
